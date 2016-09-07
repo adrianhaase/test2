@@ -1,0 +1,14 @@
+vorgehensweise GiT-SVN verbindung
+
+Instalieren "VisualSVNServer"
+	Konnte Server+Tools oder nur Tools installieren
+	Konnte zwischen Standart (kostenlos) und Enterprise (kostenpflichtig) Version wählen
+
+"VisualSVNServer"
+	Neuen Benutzer erstellt
+	Neues repo erstellt	 Link: https://ADH-NB-01.mpdv.local/svn/test/
+
+Installieren "Git"
+	Konnte auswählen wie ich Git von der command line benutzen möchte
+	Konnte auswählen wie Git mit Zeilenenden in Textdateien umgehen soll
+	Konnte auswähle welches terminal verwendet werden soll (Git/Windows)

@@ -1,0 +1,3 @@
+﻿Links svn git connection
+
+http://www.leewillis.co.uk/including-git-repo-svn-external/#footnote1
