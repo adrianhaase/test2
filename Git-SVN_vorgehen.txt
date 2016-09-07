@@ -12,3 +12,8 @@ Installieren "Git"
 	Konnte auswählen wie ich Git von der command line benutzen möchte
 	Konnte auswählen wie Git mit Zeilenenden in Textdateien umgehen soll
 	Konnte auswähle welches terminal verwendet werden soll (Git/Windows)
+
+git initialisiert im richtigen verzeichnis (git init)
+dateien hinzugefügt 
+commit
+push auf github
