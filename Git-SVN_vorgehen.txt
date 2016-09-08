@@ -8,7 +8,8 @@ Instalieren "VisualSVNServer"
 	Neuen Benutzer erstellt
 	Neues repo erstellt	 Link: https://ADH-NB-01.mpdv.local/svn/test/
 
-Installieren "Git"
+Installieren (nicht nötig)
+"Git"
 	Konnte auswählen wie ich Git von der command line benutzen möchte
 	Konnte auswählen wie Git mit Zeilenenden in Textdateien umgehen soll
 	Konnte auswähle welches terminal verwendet werden soll (Git/Windows)
